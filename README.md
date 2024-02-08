@@ -1,4 +1,4 @@
-# JavaScrpt の非同期処理
+# JavaScript の非同期処理
 
 - [callback-hell.js](./callback-hell.js)
 
