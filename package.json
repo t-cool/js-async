@@ -1,0 +1,18 @@
+{
+  "name": "js-async",
+  "version": "1.0.0",
+  "description": "- [callback-hell.js](./callback-hell.js)",
+  "main": "async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "request-promise-native": "^1.0.9"
+  }
+}
