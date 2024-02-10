@@ -3,5 +3,5 @@ images/image2.jpg
 images/image3.jpg
 
 .DS_Store
-node_modules
+node_modules/
 
